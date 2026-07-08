@@ -25,4 +25,4 @@ public class Prblm1 {
         System.out.println(Arrays.toString(obj.twoSum(nums, 9)));
     }
 }
-//Logic is mine but didnt get output as needed so used chatgpt for this as i had to import stuff fromm leet code
+//Logic is mine but did not get output as needed so used chatgpt for this as i had to import stuff fromm leet code
